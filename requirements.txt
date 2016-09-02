@@ -1,0 +1,2 @@
+wampy==0.4.0
+crossbar==0.15.0
